@@ -41,6 +41,9 @@
             "name": "rock_wall"
         },
         {
+            "name": "snow_rock_wall"
+        },
+        {
             "name": "rock_wall_south"
         },
         {
@@ -171,9 +174,6 @@
             "name": "rock_salt"
         },
         {
-            "name": "rock_bluespace_crystal"
-        },
-        {
             "name": "rock_sand"
         },
         {
@@ -217,6 +217,12 @@
         },
         {
             "name": "rock_andesite_west"
+        },  
+        {
+            "name": "rock_magma"
+        },
+        {
+            "name": "rock_gem"
         },
         {
             "name": "gibtonite_active",
