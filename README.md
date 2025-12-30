@@ -1,19 +1,13 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
-
-CorvaxGoob - это активно модифицируемый и основывающийся форк от всем изестного репозитория Goob Station, направленный на его перевод и создание собственного контента.
+Callisto - это модифицируемый и основывающийся форк от всем изестного репозитория Goob Station, направленный на его перевод и создание собственного контента.
 
 ## Ссылки
 
-[Наш Discord](https://discord.station14.ru) | [Наша Вики](https://wiki.station14.ru) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Клиент без Steam](https://spacestation14.io/about/nightlies/) | [Основной репозиторий](https://github.com/space-wizards/space-station-14) | [Основной репозиторий Goob Station](https://github.com/Goob-Station/Goob-Station)
+[Наш Discord](https://discord.gg/3qggMK8FSq) |  [Основной репозиторий Goob Station](https://github.com/Goob-Station/Goob-Station)
 
 ## Документация
 
 На официальном сайте с [документацией](https://docs.spacestation14.io/) имеется вся необходимая информация о контенте SS14, движке, дизайне игры и многом другом. Также имеется много информации для начинающих разработчиков.
 
-## Контрибьют
-
-Если Вы желаете помочь в улучшении репозитория, решением проблем или создания нового контента, мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. Не бойтесь просить о помощи!
-Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
 ## Сборка
 
